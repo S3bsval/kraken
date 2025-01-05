@@ -19,7 +19,7 @@ const params = {
     fontName: "Verdana",
     isBold: false,
     fontSize: 100,
-    text: "MEDUZA",
+    text: "Meduza™",
     pointerSize: null,
     color: {r: 1., g: .0, b: .5}
 };
